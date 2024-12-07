@@ -20,3 +20,7 @@ for(k=0;k<10;k++){
         console.log(k)
     }
 }
+
+do{
+    console.log(!istrue)
+}while(!istrue);
