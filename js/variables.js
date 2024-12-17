@@ -10,6 +10,9 @@ console.log(a)
 var a = "Ravi"
 console.log(a)
 
+let i = "sree"
+i=true
+console.log(i)
 
 //always use let for variable decalaration
 let b = 2
