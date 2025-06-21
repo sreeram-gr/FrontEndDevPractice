@@ -1,1 +1,1 @@
-Created this repo for pracitising the front end development technologies such as HTML, CSS, JavaScript, React, Tailwind, Typescript.
+Created this repo for practising the Web development technologies from the courses offered by freeCodeCamp(FCC), TheOdinProject(TOP) and fullStackOpen(FSO) websites and become the Full Stack Web Developer.
